@@ -9,4 +9,10 @@ h1 {
     font-size: x-large;
 }
 
+p {
+	font-family: "Courier New", Courier, monospace;
+	color: green;
+	
+}
+
 
